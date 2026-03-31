@@ -48,12 +48,12 @@ Interested in discussing the arts of coding or venturing into the mysterious rea
   <tr>
     <td>
       <a href="https://github.com/ardenlab">
-        <img src="https://github-readme-stats.vercel.app/api?username=noobmastercn&show_icons=true&bg_color=30,2a5298,1e3c72&title_color=fff&text_color=fff&icon_color=ff8c00&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ardenlab&show_icons=true&bg_color=30,2a5298,1e3c72&title_color=fff&text_color=fff&icon_color=ff8c00&hide_border=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/ardenlab">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobmastercn&layout=compact&langs_count=7&hide=javascript,html,css&bg_color=30,1e3c72,2a5298&title_color=fff&text_color=fff&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenlab&layout=compact&langs_count=7&hide=javascript,html,css&bg_color=30,1e3c72,2a5298&title_color=fff&text_color=fff&hide_border=true" />
       </a>
     </td>
   </tr>
